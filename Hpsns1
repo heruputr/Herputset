@@ -1,8 +1,8 @@
 LanjutPlant = false
 ListPlant = {"", ""}
-SpecialItem = {}
-minSpec = 1
-WorldSpec = "HPSPAKWEEL"
+SpecialItem = {7164, 5036}
+minSpec = 20
+WorldSpec = "DUEEFRUHE"
 WorldWL = {"KUNCIRU"}
 TargetLevel = 126
 DurasiWorldPNB = 90
